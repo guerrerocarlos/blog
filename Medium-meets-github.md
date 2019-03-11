@@ -3,7 +3,7 @@ How it works
 
 > This whole website is an editable editor, you can click on text and start typing.
 
-By changing the URL you can open any file from [github.com](http://github.com)
+By changing the URL you can open any file (specially Markdown or HTML) from [github.com](http://github.com)
 
 Just replace the [github.com](http://github.com) part of the url with [qinab.com](http://qinab.com)
 
