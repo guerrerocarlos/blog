@@ -25,4 +25,4 @@ To commit changes
 
 Login with GitHub and click on the "Commit" button in the top right. Don't forget to add a commit message 😉
 
-_PD: It helps to know what it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
+_PD: It helps to know that QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
