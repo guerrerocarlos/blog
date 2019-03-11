@@ -27,4 +27,4 @@ Login with GitHub and click on the "Commit" button in the top right. Don't forge
 
 _PD: It helps to know that QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
 
-_Made possible by _[_medium-editor_](https://yabwe.github.io/medium-editor/)
+**_Made possible thanks to _[_medium-editor_](https://yabwe.github.io/medium-editor/)**
