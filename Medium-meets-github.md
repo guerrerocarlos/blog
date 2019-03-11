@@ -1,7 +1,7 @@
 How it works
 ============
 
-> This whole website is an editable editor, you can click on text and start typing.
+> This whole website is an editable editor, you can click on text and start typing
 
 By changing the URL you can open any file (specially Markdown or HTML) from [github.com](http://github.com)
 
