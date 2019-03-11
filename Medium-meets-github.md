@@ -12,11 +12,11 @@ Example
 
 This file you are reading si actually here:
 
-[https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md)
+[https://**github**.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md)
 
 To edit it you would open this url you are now:
 
-[https://qinab.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://qinab.com/guerrerocarlos/blog/blob/master/Medium-meets-github.html)
+[https://**qinab**.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://qinab.com/guerrerocarlos/blog/blob/master/Medium-meets-github.html)
 
 And here you are in the medium-like editor.
 
