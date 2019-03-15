@@ -1,0 +1,11 @@
+-   definir personal
+-   definir mapa de cobertura
+-   -   definir mesh
+-   mision, vision, marketing
+-   -   que se esta tratando de hacer
+    -   -   que no se está tratando de hacer
+-   software y hardware a utilizar
+-   definir objetivo
+-   -   plazo
+    -   cantidad
+    -   prueba especifica de cobertura
