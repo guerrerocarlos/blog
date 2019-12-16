@@ -10,7 +10,7 @@ Just replace the [github.com](http://github.com) part of the url with [qinab.co
 Example
 -------
 
-This file you are reading si actually here:
+This file you are reading is actually here:
 
 [https://**github**.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md)
 
