@@ -1,14 +1,12 @@
-How it works
-============
+# How it works
 
 > This whole website is an editable editor, you can click on text and start typing…
 
-By changing the URL you can open any file (specially Markdown or HTML) from [github.com](http://github.com)
+By changing the URL you can open any file (specially Markdown or HTML) from [github.com](http://github.com)
 
-Just replace the [github.com](http://github.com) part of the url with [qinab.com](http://qinab.com)
+Just replace the [github.com](http://github.com) part of the url with [qinab.com](http://qinab.com)
 
-Example
--------
+## Example
 
 This file you are reading si actually here:
 
@@ -20,8 +18,7 @@ To edit it you would open this url you are now:
 
 And here you are in the medium-like editor.
 
-To commit changes
------------------
+## To commit changes
 
 Login with GitHub and click on the "Commit" button in the top bar (you must be logged in):
 
@@ -29,6 +26,6 @@ Login with GitHub and click on the "Commit" button in the top bar (you must be l
 
 Don't forget to add a commit message 😉
 
-_PD: It helps to know that QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
+_PD: It helps to know that QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
 
-**_Made possible thanks to _[medium-editor](https://yabwe.github.io/medium-editor/), here's the __****_[source code](https://github.com/guerrerocarlos/qinab.com)._**
+**_Made possible thanks to_[medium-editor](https://yabwe.github.io/medium-editor/), here's the**[**source code**](https://github.com/guerrerocarlos/qinab.com)
