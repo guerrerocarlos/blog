@@ -26,6 +26,6 @@ Login with GitHub and click on the "Commit" button in the top bar (you must be l
 
 Don't forget to add a commit message 😉
 
-_PD: It helps to know that QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
+_PD: Just so you know, QINAB it is a recursive acronym: **Q**inab **I**s **N**ot **A** **B**log_
 
 **_Made possible thanks to_[medium-editor](https://yabwe.github.io/medium-editor/), here's the**[**source code**](https://github.com/guerrerocarlos/qinab.com)
