@@ -10,7 +10,8 @@ Just replace the [github.com](http://github.com) part of the url with [qinab.com
 
 This file you are reading si actually here:
 
-[https://**github**.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md)
+[https://**github**.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md](https://github.com/guerrerocarlos/blog/blob/master/Medium-meets-github.md)  
+
 
 To edit it you would open this url you are now:
 
