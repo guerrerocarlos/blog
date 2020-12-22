@@ -1,4 +1,4 @@
-# _How it works_
+# How it works
 
 > This whole website is an editable editor, you can click on text and start typing…
 
