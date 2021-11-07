@@ -18,6 +18,9 @@ To edit it you would open this url you are now:
 
 And here you are in the medium-like editor.
 
+  
+
+
 ## To commit changes
 
 Login with GitHub and click on the "Commit" button in the top bar (you must be logged in):
